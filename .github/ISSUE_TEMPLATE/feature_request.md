@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: 새로 필요한 기능 제안
-title: ''
+title: "[server] | 필수"
 labels: enhancement
 assignees: ''
 
